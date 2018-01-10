@@ -56,10 +56,10 @@ h3#header {
                 padding: 10px;
                 text-align: center;
  }
-  div.jumbotron.h1 {
+  h1.jumbotron {
                     font-size: 60px;
   }
-    div.p {
+    p.jumbotron {
                      font-size: 20;
                      padding-left: 40px;
                      padding-right: 40px;
